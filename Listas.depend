@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1503071854 source:c:\users\pc-4\desktop\listas\main.cpp
+	<iostream>
+	"Nodo.h"
+
+1503071854 c:\users\pc-4\desktop\listas\nodo.h
+
+1503675756 source:e:\listas\main.cpp
+	<iostream>
+	<windows.h>
+	"Lista.h"
+
+1503678924 e:\listas\lista.h
+	"Nodo.h"
+
+1503675756 e:\listas\nodo.h
+
+1503635334 source:f:\listas\main.cpp
+	<iostream>
+	<windows.h>
+	"Lista.h"
+
+1503635444 f:\listas\lista.h
+	"Nodo.h"
+
+1503074314 f:\listas\nodo.h
+
+1503696238 source:f:\guias\listas\main.cpp
+	<iostream>
+	<windows.h>
+	"Lista.h"
+
+1503696684 f:\guias\listas\lista.h
+	"Nodo.h"
+
+1503695764 f:\guias\listas\nodo.h
+
+1503696238 source:g:\guias\listas\main.cpp
+	<iostream>
+	<windows.h>
+	"Lista.h"
+
+1503696684 g:\guias\listas\lista.h
+	"Nodo.h"
+
+1503695764 g:\guias\listas\nodo.h
+
